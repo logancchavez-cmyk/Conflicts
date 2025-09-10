@@ -1,2 +1,2 @@
 def greet():
-    print('hello from student A!')
+    print("hello from student A!")
